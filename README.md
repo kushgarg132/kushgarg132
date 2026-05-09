@@ -59,7 +59,7 @@
 
 ## 🌟 Featured Projects
 
-### 🤖 [NeoTrade AI](https://github.com/kushgarg132/AI_Stock_Investor) — Multi-Agent Stock Analysis Platform
+### 🤖 [NeoTrade AI](https://github.com/kushgarg132/AI_Stock_Investor) — Multi-Agent Stock Analysis Platform · [Live Demo](https://ai-stock-investor.vercel.app)
 > Python · FastAPI · LangGraph · Redis · MongoDB · Gemini Pro
 
 5-agent LangGraph system (Master, Analyst, Quant, Risk, Chat) with async FastAPI backend, Redis pub/sub caching, TA-Lib indicators (RSI, MACD, Bollinger Bands), and Google Gemini LLM for intelligent market analysis. Deployed via Docker Compose on Render + Vercel.
